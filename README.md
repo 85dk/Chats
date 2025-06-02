@@ -1,6 +1,6 @@
 # chats
 
-A new Flutter project.
+Chats is a real-time messaging app built with Flutter that enables seamless one-on-one communication using Gmail authentication through Firebase. Users sign in securely with their Google accounts, and conversations are instantly synced using Cloud Firestore, ensuring fast and reliable data transfer across devices. With a clean interface, live message updates, and user-friendly design, QuickChat delivers a smooth and secure chatting experience on both Android and iOS platforms.
 
 ## Getting Started
 
